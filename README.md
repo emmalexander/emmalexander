@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmalexander&label=Profile%20views&color=0e75b6&style=flat" alt="emmalexander" /> </p>
 
+
+- 🌱 I’m currently learning Node.js
+
 - 💬 Ask me about **Flutter, Dart, Bloc, Provider, Firebase**
 
 - 📫 How to reach me **emmanuelohiocheoya@gmail.com**
