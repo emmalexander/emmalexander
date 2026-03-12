@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Ohiocheoya</h1>
-<h3 align="center">Full-Stack Flutter Engineer | Mobile & Backend Developer</h3>
+<h3 align="center">Software Engineer | Mobile & Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=emmalexander&label=Profile%20views&color=0e75b6&style=flat" alt="emmalexander" />
