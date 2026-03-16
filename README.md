@@ -11,7 +11,7 @@
 
 - 🔭 Building scalable mobile and backend systems  
 - 🌱 Currently deepening my backend expertise with the Node.js ecosystem  
-- 💬 Ask me about **Flutter, Dart, Bloc, Provider, Firebase, REST APIs**
+- 💬 Ask me about **Flutter, Dart, Swift, SwiftUI, NodeJs, Firebase, REST APIs**
 - 📫 Reach me at: **emmanuelohiocheoya@gmail.com**
 - ⚡ Passionate about clean architecture, performance optimization, and elegant UI/UX
 
